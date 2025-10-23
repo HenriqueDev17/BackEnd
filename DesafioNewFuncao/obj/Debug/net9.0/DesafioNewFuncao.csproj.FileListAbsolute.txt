@@ -1,0 +1,15 @@
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\bin\Debug\net9.0\DesafioNewFuncao.exe
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\bin\Debug\net9.0\DesafioNewFuncao.deps.json
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\bin\Debug\net9.0\DesafioNewFuncao.runtimeconfig.json
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\bin\Debug\net9.0\DesafioNewFuncao.dll
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\bin\Debug\net9.0\DesafioNewFuncao.pdb
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.AssemblyInfoInputs.cache
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.AssemblyInfo.cs
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.csproj.CoreCompileInputs.cache
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.sourcelink.json
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.dll
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\refint\DesafioNewFuncao.dll
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.pdb
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\DesafioNewFuncao.genruntimeconfig.cache
+C:\Users\42916360832\Desktop\Back End Torloni\DesafioNewFuncao\obj\Debug\net9.0\ref\DesafioNewFuncao.dll
