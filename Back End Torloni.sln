@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioCalc", "DesafioCalc\DesafioCalc.csproj", "{B42B7D2C-AA26-091F-DF79-5469AFED7086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{B052800D-491F-CFB9-7B77-6B83761AE8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalc", "SimpleCalc\SimpleCalc.csproj", "{D00712C7-4810-C9D3-90F4-ACCE1499DFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42B7D2C-AA26-091F-DF79-5469AFED7086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42B7D2C-AA26-091F-DF79-5469AFED7086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42B7D2C-AA26-091F-DF79-5469AFED7086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42B7D2C-AA26-091F-DF79-5469AFED7086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B052800D-491F-CFB9-7B77-6B83761AE8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B052800D-491F-CFB9-7B77-6B83761AE8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B052800D-491F-CFB9-7B77-6B83761AE8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B052800D-491F-CFB9-7B77-6B83761AE8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00712C7-4810-C9D3-90F4-ACCE1499DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00712C7-4810-C9D3-90F4-ACCE1499DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00712C7-4810-C9D3-90F4-ACCE1499DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00712C7-4810-C9D3-90F4-ACCE1499DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91642FFB-F44C-4CF4-A81A-3214AFD0A094}
+	EndGlobalSection
+EndGlobal

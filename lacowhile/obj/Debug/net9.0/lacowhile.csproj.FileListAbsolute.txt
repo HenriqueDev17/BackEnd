@@ -1,0 +1,14 @@
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\bin\Debug\net9.0\lacowhile.exe
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\bin\Debug\net9.0\lacowhile.deps.json
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\bin\Debug\net9.0\lacowhile.runtimeconfig.json
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\bin\Debug\net9.0\lacowhile.dll
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\bin\Debug\net9.0\lacowhile.pdb
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.AssemblyInfoInputs.cache
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.AssemblyInfo.cs
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.csproj.CoreCompileInputs.cache
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.dll
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\refint\lacowhile.dll
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.pdb
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\lacowhile.genruntimeconfig.cache
+C:\Users\42916360832\Desktop\Back End Torloni\lacowhile\obj\Debug\net9.0\ref\lacowhile.dll
